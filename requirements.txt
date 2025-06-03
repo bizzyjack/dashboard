@@ -1,6 +1,6 @@
-streamlit
-pandas
-matplotlib
-gensim
-wordcloud
-pyLDAvis
+streamlit==1.25.0
+pandas==2.2.2
+matplotlib==3.8.4
+gensim==4.3.2
+wordcloud==1.9.3
+pyLDAvis==3.4.1
